@@ -274,7 +274,7 @@ const SERVICES = [
     body: "End-to-end content for Instagram, Facebook and beyond — treatment education, patient questions answered, and a feed that looks like the clinic you actually run. Not just pretty posts: content built to convert followers into enquiries.",
     outcome: (
       <>
-        Recent result — <b className="text-ink font-medium">71 leads in 30 days</b> for Keanas Clinic
+        Recent result — <b className="text-ink font-medium">71 leads in 30 days</b> for 3Sixty Studio
       </>
     ),
     img: svcSmmImg,
@@ -419,7 +419,7 @@ const CASES = [
       { label: "Social media management", teal: true },
       { label: "Website repair", teal: false },
     ],
-    title: "Keanas Clinic — 71 leads in 30 days",
+    title: "3Sixty Studio — 71 leads in 30 days",
     story: (
       <>
         A social presence that wasn't converting, and a website quietly working
